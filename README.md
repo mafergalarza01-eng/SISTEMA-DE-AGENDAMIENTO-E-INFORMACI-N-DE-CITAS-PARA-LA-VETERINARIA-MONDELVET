@@ -7,3 +7,7 @@ Asimismo, ofrece al personal de la veterinaria una herramienta centralizada para
 
 ## Integrantes del Grupo
 *   **Mafer Galarza**
+*   **Javier Ordoñez**
+*   **Jostin Luzuriaga**
+*   **Genesis Poveda**
+*   **Andres Figueroa** 
