@@ -6,8 +6,8 @@ Este proyecto consiste en el desarrollo de una plataforma orientada a optimizar 
 Asimismo, ofrece al personal de la veterinaria una herramienta centralizada para administrar el calendario de atenciones, gestionar el historial de citas y enviar recordatorios informativos.
 
 ## Integrantes del Grupo
+*   **Genesis Poveda**
 *   **Mafer Galarza**
 *   **Javier Ordoñez**
-*   **Jostin Luzuriaga**
-*   **Genesis Poveda**
-*   **Andres Figueroa** 
+*   **Jostin Luzuriaga** (No Trabajo)
+*   **Andres Figueroa** (No Trabajo)
